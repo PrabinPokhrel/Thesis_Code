@@ -30,9 +30,9 @@ The thesis applies BERTopic for topic modeling on metadata from SDG-related rese
 ## 📝 Appendices (as per thesis)
 
 - **Appendix A**: Source datasets for each of the 17 SDGs (`/data/`)
-- 
+  
 - **Appendix B**: BERTopic topic summary output (`/output_topics/bertopic_keywords.csv`)
-- 
+  
 - **Appendix C**: Complete source code for preprocessing, topic modeling, and RQ answers (`/notebooks/thesis_code.ipynb`)
 
 
